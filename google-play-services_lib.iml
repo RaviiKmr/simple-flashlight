@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="EclipseModuleManager" forced_jdk="true">
+    <conelement value="com.android.ide.eclipse.adt.DEPENDENCIES" />
+    <src_description expected_position="1">
+      <src_folder value="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK" expected_position="0" />
+      <src_folder value="com.android.ide.eclipse.adt.LIBRARIES" expected_position="1" />
+      <src_folder value="file://$MODULE_DIR$/../NewAdMobTutorial/google-play-services_lib/src" expected_position="2" />
+      <src_folder value="file://$MODULE_DIR$/../NewAdMobTutorial/google-play-services_lib/gen" expected_position="3" />
+    </src_description>
+  </component>
+  <component name="FacetManager">
+    <facet type="android" name="Android">
+      <configuration>
+        <option name="GEN_FOLDER_RELATIVE_PATH_APT" value="/../NewAdMobTutorial/google-play-services_lib/gen" />
+        <option name="GEN_FOLDER_RELATIVE_PATH_AIDL" value="/../NewAdMobTutorial/google-play-services_lib/gen" />
+        <option name="MANIFEST_FILE_RELATIVE_PATH" value="/../NewAdMobTutorial/google-play-services_lib/AndroidManifest.xml" />
+        <option name="RES_FOLDER_RELATIVE_PATH" value="/../NewAdMobTutorial/google-play-services_lib/res" />
+        <option name="ASSETS_FOLDER_RELATIVE_PATH" value="/../NewAdMobTutorial/google-play-services_lib/assets" />
+        <option name="LIBS_FOLDER_RELATIVE_PATH" value="/../NewAdMobTutorial/google-play-services_lib/libs" />
+        <option name="LIBRARY_PROJECT" value="true" />
+        <option name="PROGUARD_LOGS_FOLDER_RELATIVE_PATH" value="/../NewAdMobTutorial/google-play-services_lib/proguard_logs" />
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="false">
+    <output url="file://$MODULE_DIR$/../NewAdMobTutorial/google-play-services_lib/bin/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../NewAdMobTutorial/google-play-services_lib">
+      <sourceFolder url="file://$MODULE_DIR$/../NewAdMobTutorial/google-play-services_lib/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../NewAdMobTutorial/google-play-services_lib/gen" isTestSource="false" generated="true" />
+    </content>
+    <orderEntry type="jdk" jdkName="Android API 19 Platform" jdkType="Android SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" exported="" name="com.android.ide.eclipse.adt.DEPENDENCIES" level="application" />
+  </component>
+</module>
